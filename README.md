@@ -1,4 +1,4 @@
-﻿# 简单的博客管理系统
+﻿# 博客管理系统
 
 ## 使用spring+SpringMVC+myBatista+MySQL+bootstrap实现，依托Maven进行管理
 
